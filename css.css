@@ -1,0 +1,24 @@
+.head {
+  text-align: center;
+  text-decoration: none;
+  font-family: arial, sans-serif;
+}
+
+.line {
+  border-bottom: 1px solid black;
+}
+
+.body {
+  font-family: arial, sans-serif;
+  text-align: center;
+}
+
+.random-gg {
+  border-radius: 10px;
+  background-color: #11111;
+}
+
+.follow-me {
+  font-family: arial, sans-serif;
+  text-align: center;
+}
